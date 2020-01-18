@@ -14,3 +14,7 @@ Lesson 12 classwork examples of the selfdriving nano degree.
 - [systematic_bias]() is when there is wheel misalignment. The car has the steering tyres not perfectly parallel to the x-axis. Even if the bias is in steering it manifests itslef in the Cross Traffic Error in Y direction. Output below
 
   <img src="./pictures/systematic-bias_output.png" style="zoom:50%;" />
+
+- pid-controller_output is the output with the integral term added too. 
+
+  <img src="./pictures/pd-controller_output.png" alt="pid-controller_output" style="zoom:50%;" />
